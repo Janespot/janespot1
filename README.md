@@ -46,6 +46,7 @@ footer{
 .col-8{width:66.66%;}
 .col-9{width:75%;}
 .col-10{width:83.33%;}
+
 .col-11{width:91.66%;}
 .col-12{width:100%;}
 </style>
@@ -57,7 +58,8 @@ footer{
 
 <header class="w3-container ">
 <div class="w3-panel w3-green w3-text-white">
-    <img style="border:none;width:100%;height:400px" src="../drawings/j.svg"/>
+    ![J](https://user-images.githubusercontent.com/58133653/142923505-bd339fc8-44b3-4d5d-84c0-3da7e276d401.png)
+
     <p>Hello,welcome to my website</p>
  </div>
 </header>
@@ -87,7 +89,8 @@ Much love to you all!</p>
 <footer class="w3-container w3-text-white">
 
 <p><u>Note from the author</u></p>
-<img src="images/jane.jpg" alt="author of this website" style="width:7%;"/><br/>
+![june](https://user-images.githubusercontent.com/58133653/142923647-40a3abb0-41d1-4a27-99ee-5d30ea3f3181.png)
+<br/>
 <caption>@Jane_spot</caption>
 <p>-Stay safe! &#128151;&#128151;&#128151;</p>
 
