@@ -56,8 +56,7 @@ footer{
 
 <header class="w3-container ">
 <div class="w3-panel w3-green w3-text-white">
-    ![J](https://user-images.githubusercontent.com/58133653/142923505-bd339fc8-44b3-4d5d-84c0-3da7e276d401.png)
-
+    
     <p>Hello,welcome to my website</p>
  </div>
 </header>
@@ -87,7 +86,6 @@ Much love to you all!</p>
 <footer class="w3-container w3-text-white">
 
 <p><u>Note from the author</u></p>
-![june](https://user-images.githubusercontent.com/58133653/142923647-40a3abb0-41d1-4a27-99ee-5d30ea3f3181.png)
 <br/>
 <caption>@Jane_spot</caption>
 <p>-Stay safe! &#128151;&#128151;&#128151;</p>
