@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html xmlns="http://www.janespot008.eit" lang="en-US">
 
 <head>
