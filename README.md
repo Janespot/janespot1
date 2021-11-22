@@ -56,7 +56,6 @@ footer{
 
 <header class="w3-container ">
 <div class="w3-panel w3-green w3-text-white">
-    
     <p>Hello,welcome to my website</p>
  </div>
 </header>
