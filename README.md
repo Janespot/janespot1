@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html xmlns="http://www.janespot008.eit" lang="en-US">
 
 <head>
@@ -57,7 +55,6 @@ footer{
 
 <header class="w3-container ">
 <div class="w3-panel w3-green w3-text-white">
-    <img style="border:none;width:100%;height:400px" src="../drawings/j.svg"/>
     <p>Hello,welcome to my website</p>
  </div>
 </header>
@@ -86,8 +83,7 @@ Much love to you all!</p>
 </div>
 <footer class="w3-container w3-text-white">
 
-<p><u>Note from the author</u></p>
-<img src="images/jane.jpg" alt="author of this website" style="width:7%;"/><br/>
+<p><u>Note from the author</u></p><br/>
 <caption>@Jane_spot</caption>
 <p>-Stay safe! &#128151;&#128151;&#128151;</p>
 
